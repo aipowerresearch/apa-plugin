@@ -1,11 +1,28 @@
 {
-  "name": "AI Power Research — Plugin Marketplace",
-  "description": "AI Power Atlas 인텔리전스 파이프라인 플러그인 (10-Layer 프레임워크 기반, EN/KO)",
+  "name": "ai-power-research",
+  "owner": {
+    "name": "AI Power Research",
+    "email": "info@intesol.kr"
+  },
+  "metadata": {
+    "description": "AI Power Atlas — 10-Layer 권력 흐름 프레임워크 기반 인텔리전스 파이프라인 플러그인 (EN/KO, APV 품질 게이트)",
+    "homepage": "https://aipoweratlas.com"
+  },
   "plugins": [
     {
       "name": "apa",
-      "description": "AI Power Atlas — 일간/주간/심층분석 인텔리전스 자동 생성·발행 (APV 품질 게이트 포함, 13단계 파이프라인)",
-      "path": "."
+      "source": {
+        "source": "github",
+        "repo": "aipowerresearch/apa-plugin",
+        "ref": "main"
+      },
+      "description": "AI Power Atlas — 일간/주간/심층분석 인텔리전스 자동 생성·발행 (13단계 파이프라인, APV 품질 게이트, EN/KO)",
+      "version": "2.2.0",
+      "author": {
+        "name": "AI Power Research"
+      },
+      "homepage": "https://aipoweratlas.com",
+      "keywords": ["ai-intelligence", "newsletter", "report", "analysis", "automation", "multilingual", "power-flow"]
     }
   ]
 }

@@ -1,0 +1,11 @@
+# 빌드 산출물
+*.plugin
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.bak

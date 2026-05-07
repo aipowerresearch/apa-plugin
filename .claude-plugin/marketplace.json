@@ -1,0 +1,11 @@
+{
+  "name": "AI Power Research — Plugin Marketplace",
+  "description": "AI Power Atlas 인텔리전스 파이프라인 플러그인 (10-Layer 프레임워크 기반, EN/KO)",
+  "plugins": [
+    {
+      "name": "apa",
+      "description": "AI Power Atlas — 일간/주간/심층분석 인텔리전스 자동 생성·발행 (APV 품질 게이트 포함, 13단계 파이프라인)",
+      "path": "."
+    }
+  ]
+}

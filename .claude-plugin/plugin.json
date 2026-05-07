@@ -1,0 +1,21 @@
+{
+  "name": "apa",
+  "version": "2.2.0",
+  "description": "AI Power Atlas — 10-Layer 권력 흐름 프레임워크 기반 일간/주간/심층분석 인텔리전스 자동 생성·발행 플러그인 (다국어 EN/KO + 향후 8개 언어 확장, 번역 품질 검수 내장)",
+  "author": {
+    "name": "AI Power Research"
+  },
+  "keywords": [
+    "ai-intelligence",
+    "newsletter",
+    "report",
+    "analysis",
+    "automation",
+    "multilingual",
+    "power-flow",
+    "seo",
+    "aeo",
+    "geo"
+  ],
+  "homepage": "https://aipoweratlas.com"
+}
